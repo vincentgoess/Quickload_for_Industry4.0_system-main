@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<Products Version="1.0" Creator="Festo Didactic">
+  <Product>
+    <ProductName>Rote Kappe</ProductName>
+    <ProductDescription>Rote Kappe montiert für International</ProductDescription>
+    <Workplan>
+      <Step>
+        <Number>10</Number>
+        <Function>RR</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>release red workpiece</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>20</Number>
+        <Function>MC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>mount cap</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>30</Number>
+        <Function>SI</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>international distribution</FunctionDescription>
+      </Step>
+    </Workplan>
+  </Product>
+  <Product>
+    <ProductName>Schwarze Kappe</ProductName>
+    <ProductDescription>Schwarze Kappe mit farb Kontrolle für national</ProductDescription>
+    <Workplan>
+      <Step>
+        <Number>10</Number>
+        <Function>RB</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>release black workpiece</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>20</Number>
+        <Function>CC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>check colour</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>30</Number>
+        <Function>SN</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>national distribution</FunctionDescription>
+      </Step>
+    </Workplan>
+  </Product>
+  <Product>
+    <ProductName>jbnjb</ProductName>
+    <ProductDescription>njn</ProductDescription>
+    <Workplan>
+      <Step>
+        <Number>10</Number>
+        <Function>RR</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>release red workpiece</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>20</Number>
+        <Function>MC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>mount cap</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>30</Number>
+        <Function>CC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>check colour</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>40</Number>
+        <Function>SN</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>national distribution</FunctionDescription>
+      </Step>
+    </Workplan>
+  </Product>
+  <Product>
+    <ProductName>Rot</ProductName>
+    <ProductDescription>Rot</ProductDescription>
+    <Workplan>
+      <Step>
+        <Number>10</Number>
+        <Function>RR</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>release red workpiece</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>20</Number>
+        <Function>MC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>mount cap</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>30</Number>
+        <Function>CC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>check colour</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>40</Number>
+        <Function>SN</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>national distribution</FunctionDescription>
+      </Step>
+    </Workplan>
+  </Product>
+  <Product>
+    <ProductName>gxfdgd</ProductName>
+    <ProductDescription>fggfdg</ProductDescription>
+    <Workplan>
+      <Step>
+        <Number>10</Number>
+        <Function>RB</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>release black workpiece</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>20</Number>
+        <Function>MC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>mount cap</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>30</Number>
+        <Function>CC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>check colour</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>40</Number>
+        <Function>SN</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>national distribution</FunctionDescription>
+      </Step>
+    </Workplan>
+  </Product>
+  <Product>
+    <ProductName>sff</ProductName>
+    <ProductDescription>hcgfg</ProductDescription>
+    <Workplan>
+      <Step>
+        <Number>10</Number>
+        <Function>RR</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>release red workpiece</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>20</Number>
+        <Function>MC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>mount cap</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>30</Number>
+        <Function>CC</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>check colour</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>40</Number>
+        <Function>SI</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>international distribution</FunctionDescription>
+      </Step>
+    </Workplan>
+  </Product>
+  <Product>
+    <ProductName>test</ProductName>
+    <ProductDescription>test</ProductDescription>
+    <Workplan>
+      <Step>
+        <Number>10</Number>
+        <Function>RR</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>release red workpiece</FunctionDescription>
+      </Step>
+      <Step>
+        <Number>20</Number>
+        <Function>SI</Function>
+        <Parameter>1</Parameter>
+        <FunctionDescription>international distribution</FunctionDescription>
+      </Step>
+    </Workplan>
+  </Product>
+</Products>
